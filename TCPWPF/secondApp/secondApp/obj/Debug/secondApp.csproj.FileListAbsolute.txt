@@ -1,0 +1,15 @@
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\bin\Debug\secondApp.exe.config
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\bin\Debug\secondApp.exe
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\bin\Debug\secondApp.pdb
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\App.g.cs
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp_MarkupCompile.cache
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp_MarkupCompile.lref
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\MainWindow.baml
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp.g.resources
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp.Properties.Resources.resources
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp.csproj.GenerateResource.cache
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp.exe
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\secondApp.pdb
+C:\Users\Owner\Dev\TCPWPF\secondApp\secondApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
